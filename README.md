@@ -1,6 +1,9 @@
 # timps nnjnjmmlk
 **nkkfgnvkjrgnfjcnf**   
-rcnrjtnjvnjkre h  
+rcnrjtnjvnjkre normaltext    
 *italic textnjncjndsjnjdsnjcndsncdskjc*  
-💝💘  
+💝💘    
 * item
+* 1. item  
+[text](https://google.com)  
+![alt text](issue.PNG)
