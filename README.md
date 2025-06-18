@@ -5,7 +5,8 @@ rcnrjtnjvnjkre normaltext
 💝💘    
 * item
 * 1. item  
-[google](https://google.com)  
-![img](https://raw.githubusercontent.com/Venkat474/timps/master/Capture.PNG)
+[google](https://google.com)
+https://raw.githubusercontent.com/<username>/<repo>/<branch>/<filepath>
 
+![img](https://raw.githubusercontent.com/Venkat474/timps/master/Capture.PNG)  
 ```your code```
