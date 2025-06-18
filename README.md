@@ -6,5 +6,6 @@ rcnrjtnjvnjkre normaltext
 * item
 * 1. item  
 [google](https://google.com)  
-![img](img/Capture.PNG) 
+![img](https://raw.githubusercontent.com/Venkat474/timps/main/path/to/Capture.PNG)
+
 ```your code```
