@@ -5,6 +5,6 @@ rcnrjtnjvnjkre normaltext
 💝💘    
 * item
 * 1. item  
-[text](https://google.com)  
+[google](https://google.com)  
 ![alt text](issue.PNG)  
 ```your code```
