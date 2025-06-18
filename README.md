@@ -6,5 +6,5 @@ rcnrjtnjvnjkre normaltext
 * item
 * 1. item  
 [google](https://google.com)  
-![alt text](Capture.PNG)  
+![Capture.PNG](Capture.PNG)  
 ```your code```
